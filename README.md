@@ -26,3 +26,13 @@ NeuroStartUp - динамически развивающийся стартап,
 ## Лицензия
 
 Условия лизензии: абонетская плата на 4 рабочих места, пробное использование в течении 10 дней. Все права защищены авторским правом и законодательством.
+
+JavaScript:
+<script src="https://localhost/neuro.sdk.min.js"></script>
+
+Java (Maven):
+<dependency>
+  <groupId>neuro</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.0</version>
+</dependency>
